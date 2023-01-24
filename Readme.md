@@ -7,7 +7,7 @@ Projeto desenvolvido para o teste da empresa EDESOFT, CRUD simples construído c
 Clone o repositorio
 
 ```bash
-    git clone https://github.com/yourusername/user-crud-app.git
+    git clone https://github.com/DevRafaelCena/crud-ReactJs_Redux.git
 
 ```
 
